@@ -1,2 +1,2 @@
 # MRM
-https://github.com/Aayushikumarii/MRM
+https://aayushikumarii.github.io/MRM/
